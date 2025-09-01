@@ -1,6 +1,6 @@
 # 주의사항
-  - [Reuven Lerner의 Pandas Workout 소스콛](https://github.com/reuven/pandas-workout)에서 코드만 가져왔음.
-  - 원저자의 코드만 이용할 뿐 아무 상관이 없음.
+  - [Reuven Lerner의 Pandas Workout GitHub 리포](https://github.com/reuven/pandas-workout)에서 코드만 가져왔음.
+  - 원저자의 코드만 이용할 뿐 원저자와 아무 상관이 없음.
 
 # Jupyter notebooks for Pandas Workout (https://PandasWorkout.com/)
 
