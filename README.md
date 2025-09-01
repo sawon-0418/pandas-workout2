@@ -1,18 +1,15 @@
 # 주의사항
-  - [Reuven Lerner의 Pandas Workout GitHub 리포](https://github.com/reuven/pandas-workout)에서 코드만 가져왔음.
-  - 원저자의 코드만 이용할 뿐 원저자와 아무 상관이 없음.
 
-# Jupyter notebooks for Pandas Workout (https://PandasWorkout.com/)
+- [Reuven Lerner의 Pandas Workout GitHub 리포](https://github.com/reuven/pandas-workout)에서 코드만 가져왔음.
+- 원저자의 코드만 이용할 뿐 원저자와 아무 상관이 없음.
 
-These are the Jupyter notebooks for my book, Pandas Workout. The data for the exercises are stored separately, at https://files.lerner.co.il/pandas-workout-data.zip .
+# 내용
 
-Did you like the book? Please help me to spread the word, by reviewing it on Amazon (https://www.amazon.com/Pandas-Workout-Reuven-Lerner/dp/1617299723).
+## 주피터 노트북
 
-Other links that might be of interest to you:
+- Pandas Workout에 사용된 예제의 소스코드 주피터 노트북
 
-- "Better developers," with new articles about Python each week: https://BetterDevelopersWeekly.com/
-- "Bamboo Weekly," with Pandas puzzles based on  current events: https://BambooWeekly.com
-- My previous book, "Python Workout": https://PythonWorkout.com/
-- My YouTube channel: https://YouTube.com/reuvenlerner
-- My Twitter feed: https://Twitter.com/reuvenmlerner
-- My online courses: https://LernerPython.com
+## 데이터
+
+- 코드에서 활용되는 데이터는 추가로 다운로드 필요
+- 데이터 모음집 링크: https://files.lerner.co.il/pandas-workout-data.zip
