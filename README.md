@@ -13,3 +13,4 @@
 
 - 코드에서 활용되는 데이터는 추가로 다운로드 필요
 - 데이터 모음집 링크: https://files.lerner.co.il/pandas-workout-data.zip
+  - zip 파일을 다운로드해서 압축을 푼 다음에 data 폴더만 chapter 폴더들이 모여 있는 곳에 복사해서 저장해두면 됨.
